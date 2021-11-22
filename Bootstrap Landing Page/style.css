@@ -1,0 +1,158 @@
+html {
+  scroll-behavior: smooth;
+  font-family: "Outfit", sans-serif;
+}
+
+body {
+  font-family: "Outfit", sans-serif;
+}
+
+.ac {
+  width: 150px;
+  height: 150px;
+  display: inline;
+  object-fit: cover;
+  object-position: 10% 40%; /* try 20px 10px */
+}
+
+.bg-1 {
+  background-color: white;
+}
+
+.bg-2 {
+  background-color: #4169e1; /*#474e5d*/
+  color: #ffffff;
+}
+
+.bg-4 {
+  background-color: #4169e1; /*#474e5d*/
+  color: #ffffff;
+}
+
+.bg-6 {
+  background-color: #4169e1; /*#474e5d*/
+  color: #ffffff;
+}
+
+.bg-8 {
+  background-color: #4169e1; /*#474e5d*/
+  color: #ffffff;
+}
+
+.sec1para {
+  font-size: 20px;
+}
+
+.container-fluid {
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+
+.navbar {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border: 0;
+  border-radius: 2px;
+  margin-bottom: 0;
+  font-size: 12px;
+  background: #4169e1;
+}
+
+.navbar-nav li a:hover {
+  color: black;
+  color: white;
+}
+
+.navbar-brand {
+  color: white;
+}
+
+.bulletpoints {
+  text-align: center;
+}
+
+.bps {
+  padding-top: 20px;
+  font-size: 18px;
+}
+
+.col-sm-4 {
+  padding-top: 50px;
+}
+
+/* .last2 {
+  display: block;
+
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+} */
+
+.list-group-item {
+  text-align: left;
+}
+
+.checked {
+  color: orange;
+}
+
+.stars {
+  float: right;
+}
+
+#socials {
+  margin-left: 20px;
+  color: white;
+}
+
+.topNavText {
+  font-size: 16px;
+}
+
+.topNavText:hover {
+  color: black;
+}
+
+/* Popup container */
+.popup {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+}
+
+/* The actual popup (appears on top) */
+.popup .popuptext {
+  visibility: hidden;
+  width: 160px;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 8px 0;
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -80px;
+}
+
+.Name {
+  font-size: 30px;
+}
+
+.fontFam {
+  font-family: "Outfit", sans-serif;
+}
+
+.startext {
+}
+
+.fa-star {
+}
+
+.ps {
+  padding-left: 10px;
+}
+
+.workExpImgs {
+}
